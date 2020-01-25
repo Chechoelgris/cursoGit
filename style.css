@@ -7,7 +7,11 @@ body {
 } 
   
 h1 {
-  color: orange;
+<<<<<<< HEAD
+color: rgb(155, 205, 238);
+=======
+  color: rgb(155, 205, 238);
+>>>>>>> development
   font-family: 'Space Mono', monospace;
   font-size: 3rem;
   text-align: center;
